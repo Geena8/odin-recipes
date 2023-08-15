@@ -1,0 +1,20 @@
+ul {
+    color: turquoise;
+    font-weight: 800;
+    font-size: 50px;
+}
+a:hover{
+    color:rgb(59, 156, 100)
+}
+h1{
+    font-size: 150px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+img{
+    height: auto;
+    width: 1000px;
+}
